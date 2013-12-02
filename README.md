@@ -1,4 +1,4 @@
 quickstrike
 ===========
 
-Project quick starter.
+Meteor-based project boilerplate.
