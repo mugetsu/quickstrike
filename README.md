@@ -1,0 +1,4 @@
+quickstrike
+===========
+
+Project quick starter.
